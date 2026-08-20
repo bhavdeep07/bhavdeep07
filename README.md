@@ -200,10 +200,7 @@
 
 <p data-importer="text" align="left">## 📫 Connect With Me</p>
 
-<p data-importer="text" align="left">🔗 <a href="YOUR_LINKEDIN_URL">LinkedIn</a> • <a href="YOUR_GITHUB_URL">GitHub</a></p>
-
 <p data-importer="text" align="left">I'm always interested in connecting with people working in <strong>Cloud, DevOps, Kubernetes, Platform Engineering, AI and automation</strong>.</p>
-
 
 ###
 
