@@ -28,7 +28,16 @@
 
 ###
 
-<p data-importer="text" align="left">Hello World!!</p>
+<p data-importer="text" align="left"># Hi, I'm Bhavdeep 👋</p>
+
+<p data-importer="text" align="left">### Cloud & DevOps Engineer | Kubernetes | GitOps | Automation | AI & Machine Learning</p>
+
+
+<p data-importer="text" align="left">I build and experiment with **Kubernetes, cloud-native systems, automation and AI-assisted infrastructure**.</p>
+
+
+<p data-importer="text" align="left">My Master's thesis focused on **Kubernetes auto-healing using anomaly detection and automated remediation**, and I am currently expanding this work through new **Kubernetes and Agentic AI projects**.</p>
+
 
 ###
 
